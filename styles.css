@@ -1,5 +1,5 @@
 body{
-	background-image: samarth/bg.jpg;
+	background-image: url("samarth/bg.jpg");
 	overflow-x: hidden;
 }
 a, a:hover{
