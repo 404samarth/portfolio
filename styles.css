@@ -1,5 +1,8 @@
 body{
-	background-image: url("samarth/bg.jpg");
+	background-image: url("Samarth/bg.jpg");
+	background-size: cover;
+	background-repeat: no-repeat;
+	background-position: center;
 	overflow-x: hidden;
 }
 a, a:hover{
